@@ -5,3 +5,4 @@ b = 5
 print(a)
 print(b)
 
+c = 6
